@@ -1,4 +1,4 @@
-public class Calculator {
+class Calculator {
     public static void main(String[] args) {
 
         double num1 = Double.parseDouble(args[0]);
